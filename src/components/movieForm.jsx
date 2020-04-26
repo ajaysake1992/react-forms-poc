@@ -8,7 +8,7 @@ const MovieForm = ({ match, history }) => {
         className="btn btn-primary"
         onClick={() => history.push("/movies")}
       >
-        Save
+        SAVE
       </button>
     </div>
   );
